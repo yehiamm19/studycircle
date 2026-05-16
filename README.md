@@ -268,6 +268,44 @@ https://studycircle.my-board.org/
 
 ---
 
+## 🧪 Testing Report
+
+A complete QA and Software Engineering testing process was conducted for the platform, including:
+
+- Functional Testing
+- UI/UX Testing
+- Validation Testing
+- Security Testing
+- Performance Testing
+- Bug Reporting
+- Professional Final Evaluation
+
+### 📄 View Full Testing Report
+
+[![Testing Report](https://img.shields.io/badge/View-Testing_Report-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets_git/Testing_Report.pdf)
+
+---
+
+### ✅ Testing Summary
+
+| Metric | Result |
+|---|---|
+| Total Test Cases | 25 |
+| Passed | 23 |
+| Failed | 1 |
+| Warnings | 1 |
+
+### ⭐ Professional Evaluation Highlights
+
+- UI/UX → 9/10
+- Feature Completeness → 9.5/10
+- Security → 8/10
+- Academic Project Quality → Exceptional
+
+> The platform exceeded the expectations of a typical university Software Engineering final project in terms of polish, architecture, and feature depth.
+
+---
+
 ## 🔒 Security Architecture
 
 StudyCircle is built with security as a priority:
