@@ -11,7 +11,7 @@
 <div align="center">
 <strong style="font-size: 1.5em;">🚀 Quick Access</strong>
 
-[🌐 Live Demo](https://studycircle.my-board.org/) • [🔑 Demo Accounts](#-demo-accounts) • [🧪 Testing Report](./Testing_Report.pdf) • [📸 Screenshots](#-screenshots) • [🏗️ System-Architecture](#️-system-architecture)
+[🌐 Live Demo](https://studycircle.my-board.org/) • [🔑 Demo Accounts](#-demo-accounts) • [🧪 Testing Report](#-Testing-Report) • [📸 Screenshots](#-screenshots) • [🏗️ System-Architecture](#️-system-architecture)
 </div>
 
 ---
