@@ -302,8 +302,6 @@ A complete QA and Software Engineering testing process was conducted for the pla
 - Security → 8/10
 - Academic Project Quality → Exceptional
 
-> The platform exceeded the expectations of a typical university Software Engineering final project in terms of polish, architecture, and feature depth.
-
 ---
 
 ## 🔒 Security Architecture
