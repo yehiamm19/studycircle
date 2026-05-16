@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 72" role="img" aria-label="StudyCircle">
+  <defs>
+    <linearGradient id="scMark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c4b5fd"/>
+      <stop offset="55%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <text x="180" y="48" text-anchor="middle" font-family="Plus Jakarta Sans, system-ui, -apple-system, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.04em" fill="url(#scMark)">StudyCircle</text>
+</svg>
