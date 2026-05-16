@@ -16,6 +16,12 @@
 
 ---
 
+<div align="center">
+<img src="assets_git/cover.png" alt="cover" width="750"/>
+</div>
+
+---
+
 ## 📖 Overview
 
 **StudyCircle** is a comprehensive, collaborative study management platform designed specifically for university students. It bridges the gap between academic productivity and professional software engineering practices by integrating **Agile methodologies**, **Scrum frameworks**, and **Kanban boards** into the daily study routine. 
