@@ -28,11 +28,11 @@
     </script>
 </head>
 <body class="h-full font-sans antialiased bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 transition-colors duration-300" data-base-url="<?= e(rtrim(url(''), '/')) ?>">
-    <div class="min-h-full flex">
+    <div class="min-h-full flex overflow-hidden">
         <?php partial('sidebar'); ?>
         <div class="flex-1 flex flex-col min-w-0 lg:pl-64 pb-20 lg:pb-0">
             <?php partial('topbar'); ?>
-            <main class="flex-1 p-4 sm:p-6 lg:p-8 page-enter">
+            <main class="flex-1 p-4 sm:p-6 lg:p-8 page-enter safe-bottom">
                 <?php partial('flash'); ?>
                 <?= $content ?>
             </main>

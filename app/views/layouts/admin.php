@@ -27,7 +27,7 @@
     </script>
 </head>
 <body class="h-full font-sans antialiased bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 transition-colors duration-300 admin-shell" data-base-url="<?= e(rtrim(url(''), '/')) ?>">
-    <div class="min-h-full flex">
+    <div class="min-h-full flex overflow-hidden">
         <?php partial('admin-sidebar'); ?>
         <div class="flex-1 flex flex-col min-w-0 lg:pl-64">
             <?php partial('admin-topbar'); ?>
